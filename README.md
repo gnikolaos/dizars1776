@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Nikolaos</h1>
 <h3 align="center">An ambitious Full-Stack Developer from Hellas</h3>
 
-- 🔭 I’m currently working on **Agogi 
+- 🔭 I’m currently working on **Agogi\ 
 (an app aiming to ease and enhance the cooperation between the school, the students and the family.)**
 
 - 🌱 I’m currently learning **Flutter, Dart, React**
