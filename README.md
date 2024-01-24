@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Agoge<br />
 (an app aiming to ease and enhance the cooperation between the school, its students and the family.)**
 
-- 🌱 I’m currently learning **Flutter, Dart, React**
+- 🌱 I’m currently exploring **Go and React Native**
 
 - 👯 I’m looking to collaborate on [Repair-Shop-Template](https://github.com/dizars1776/Repair-Shop-Template)
 
